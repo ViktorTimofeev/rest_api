@@ -12,6 +12,7 @@ namespace RestApi.Controllers
         /// </summary>
         private static readonly string[] Summaries = new[]
         {
+
             "Freezing", "Bracing", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         };
 
